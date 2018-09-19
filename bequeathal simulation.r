@@ -25,7 +25,7 @@ progtext <- function( now , min=0 , max=100 , start.time , prefix="Task" , inter
 # bequeathal sim
 # pa: prob adult survives dispersal
 # pj: prob juvenile survives dispersal
-# va > 1: competitive ability of adult (A in paper)
+# va > 1: competitive ability of adult (Ca in paper)
 # ma: adult mortality rate (1-sa)
 # mj: juvenile mortality rate (1-sj)
 # n: number of sites
