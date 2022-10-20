@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code please cite it as below."
+title: "Code for Clarke et al: The Evolution of Bequeathal in Stable Habitats."
+version: 1.0.0
+date-released: 2018-09-19
+url: "https://github.com/bjbarrett/bequeathal"
+authors:
+- family-names: "Clarke"
+  given-names: "Parry M"
+- family-names: "McElreath"
+  given-names: "Mary Brooke"
+  orcid: "https://orcid.org/0000-0003-3206-5485"
+- family-names: "Barrett"
+  given-names: "Brendan J"
+  orcid: "https://orcid.org/0000-0002-2725-2385"
+- family-names: "Mabry"
+  given-names: "Karen E"
+- family-names: "McElreath"
+  given-names: "Richard L"
+  orcid: "https://orcid.org/0000-0002-0387-5377"
